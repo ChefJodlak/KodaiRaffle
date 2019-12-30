@@ -1,5 +1,5 @@
 # KodaiRaffle
-Simple script for KodaiRaffle
+Simple script for KodaiRaffle made by Jodla
 
 
 ## Getting Started
